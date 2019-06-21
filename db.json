@@ -1,4 +1,9 @@
 {
+  "heroes": [
+    {"id": 1, "name":"Superman"},
+    {"id":2, "name":"Batman"},
+    {"id":3, "name":"Flash"}
+  ],
   "users": [
     {
       "id": 1,
