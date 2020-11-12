@@ -3,7 +3,7 @@
     "title": "String",
     "description": "String",
   },
-  "users": {
+  "User": {
     "firstName": "String",
     "lastName": "String",
     "displayNmae": "String",
