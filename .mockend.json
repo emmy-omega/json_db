@@ -1,13 +1,9 @@
 {
-  "note": {
-    "uid": "Int",
+  "Note": {
     "title": "String",
     "description": "String",
-    "published": "Boolean",
-    "comments": "Comment[]"
   },
   "users": {
-    "uid": "Int",
     "firstName": "String",
     "lastName": "String",
     "displayNmae": "String",
